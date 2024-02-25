@@ -1,7 +1,0 @@
-.innertext => .textContent
-
-"" or '' => ``
-// and we can call variable in ``, for example `Hello ${name}` and name is our variable
-
-getElementById("") or getElementByClass("") => querySelector("#") or querySelector(".")
-// with querySelector we can do our thing with whole div or body or ...
